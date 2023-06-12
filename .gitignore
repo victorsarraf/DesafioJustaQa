@@ -1,0 +1,10 @@
+
+.DS_Store
+cypress/screenshots/comprarBolsaTest.cy.js/Eu como Heroi desejo realizar a compra de bolsa; -- C2CT-002 - Faz a compra de Sauce Labs Backpack com login de usuario com problema de performance (failed) (attempt 2).png
+node_modules/
+*.meta
+*.mp4
+cypress/screenshots/comprarBolsaTest.cy.js/Eu como Heroi desejo realizar a compra de bolsa; -- C2CT-002 - Faz a compra de Sauce Labs Backpack com login de usuario com problema de performance -- before each hook (failed) (attempt 3).png
+cypress/screenshots/comprarBolsaTest.cy.js/Eu como Heroi desejo realizar a compra de bolsa; -- C2CT-002 - Faz a compra de Sauce Labs Backpack com login de usuario com problema de performance (failed).png
+cypress/screenshots/comprarCamisetaVermelhaTest.cy.js/Eu como Heroi desejo realizar a compra de camisa vermelha; -- C1CT-001 - Faz a compra de Test.allTheThings() T-Shirt (Red) com login de usuario comum -- before all hook (failed).png
+cypress/screenshots/comprarDoisItensDeMenorValor.cy.js/Eu como Heroi quero ordenar os valores do menor para o maior e que seja comprado os dois produtos menores; -- C3CT-001 - Faz a compra dos dois itens mais baratos usando login de usuario comum -- before all hook (failed).png
