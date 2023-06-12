@@ -833,7 +833,7 @@ Veja mais informações sobre instalação e dependências no site oficial do Cy
 
 Para instalar as dependências deste teste, execute da mesma pasta onde se encontra o arquivo package.json o comando:
 
-    `npm i cypress`
+    `npm install -D cypress@12.6.2`
 
 Para executar os testes execute o comando do mesmo diretório:
 
